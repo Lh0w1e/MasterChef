@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">MasterChef</string>
+    <string name="version">Version 2.0</string>
+    <string name="edition">(Filipino Dish Edition)</string>
+    <string name="credits">Credits To:</string>
+    <string name="pinoyChow">Pinoy Chow</string>
+    <string name="designedBy">Designed and Developed By:</string>
+    <string name="resourceBy">Resource Person:</string>
+    <string name="developer">Lowi Adrian G. Colinares</string>
+    <string name="resourceName">Mark Luiz G. De Mauro</string>
+    <string name="socialMedia">Social Media Accounts:</string>
+    <string name="social1">Gmail: <i><u>Lowi.colinares@gmail.com</u></i></string>
+    <string name="social2">Facebook: <i><u>www.facebook.com/Lh0w1e</u></i></string>
+    <string name="social3">Instagram: <i><u>@lacolinares</u></i></string>
+
+    <string name="title_activity_main_form">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about_master_chef">About MasterChef</string>
+    <string name="title_activity_about_developer">About Developer</string>
+    <string name="title_activity_favorites">Favorites</string>
+    <string name="title_activity_feed_back">Send Feedback</string>
+    <string name="title_activity_quiz_main_form">Quiz</string>
+    <string name="title_activity_multiple_choice_quiz">Multiple Choice</string>
+    <string name="title_activity_identification_quiz">Identification</string>
+    <string name="title_activity_guess_the_image_quiz">Guess The Recipe</string>
+
+    <string name="desc">
+    <b>#1 Application for Pinoy Food Recipe App</b>
+        \n
+        \n
+
+        No need to carry books for Pinoy Food \n Recipe.
+        \n
+        This app enables you to carry basic Food
+        \n
+        Recipe Cooking <b>Tutorial</b> in your Android
+        \n
+        Phone.
+        \n
+        \n
+
+        It contains about 5 Main Pinoy Food
+        \n Recipes with Image, Description and
+        \n Procedure.
+        \n
+        \n
+
+        This app has a very simple user interface
+        \n
+        and the contents can be easily understood
+        \n by the users.
+        \n
+        \n
+
+        This will definitely help you for preparing,
+        \n
+        for cooking, test, and many more ways.
+        \n
+
+        \n
+        Wherever and whenever you require any
+        \n
+        information about Cooking you are just
+        \n
+        click away.
+        \n
+        \n
+        All the best.....
+
+    </string>
+
+    <string name="multiple_choice_instruction">This is a <b><u>Multiple Choice</u></b> quiz so you’ll only have to select your best answer on the given choices. Good luck!!!
+    </string>
+
+    <string name="identification_instruction">This is an <b><u>Identification</u></b> quiz so you’ll need to provide your answer on the given space below the question. Good luck!!!
+    </string>
+
+    <string name="guess_the_image_instruction">This is the <b><u>Guess the Recipe</u></b> quiz so you’ll need to guess the Recipe Name of the Image and write your answer on the given space below
+        the image. Good luck!!!
+    </string>
+</resources>

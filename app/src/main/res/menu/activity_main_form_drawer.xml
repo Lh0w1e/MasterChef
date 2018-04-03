@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@drawable/ic_favorite_24dp"
+            android:title="Favorites" />
+        <!--<item
+            android:id="@+id/nav_quiz"
+            android:icon="@drawable/ic_quiz_24dp"
+            android:title="Quiz" />-->
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_about_masterchef"
+                android:icon="@drawable/ic_masterchef_24dp"
+                android:title="About MasterChef" />
+            <item
+                android:id="@+id/nav_about_developer"
+                android:icon="@drawable/ic_dev_24dp"
+                android:title="About Developer" />
+        </menu>
+    </item>
+
+    <item android:title="More">
+        <menu>
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_feedback_24dp"
+                android:title="Feedback"/>
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share_24dp"
+                android:title="Share"/>
+            <item
+                android:id="@+id/nav_moreApps"
+                android:icon="@drawable/ic_more_apps_24dp"
+                android:title="More Apps"/>
+        </menu>
+    </item>
+
+</menu>

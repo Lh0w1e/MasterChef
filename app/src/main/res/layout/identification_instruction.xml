@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/colorWhite"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorDefault"
+        android:text="Instruction"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/colorWhite"
+        android:typeface="serif"
+        android:padding="10dp"
+        android:gravity="left|center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:text="@string/identification_instruction"
+            android:textColor="@color/colorBlack"
+            android:textSize="17sp"
+            android:padding="10dp"
+            android:gravity="left|center"/>
+
+        <Button
+            android:id="@+id/custom_identification_btn_ok"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:text="OK"
+            android:typeface="serif"
+            android:textStyle="bold"
+            android:textColor="@color/colorWhite"
+            android:background="@color/colorDefault"
+            android:layout_gravity="bottom|center"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+</LinearLayout>
